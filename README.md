@@ -1,10 +1,18 @@
-```js
-const Hugo = {
-  Pronouns: "He" | "Him",
-  Code: [Javascript, HTML, CSS, Python, Java],
-  Tools: [React, Node, Docker]
-  }
-```
+
+
+## Sobre mi
+ 
+- 📲 Mobile developer
+- ♨️ Java Developer
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Hugo-Uparela">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hugo-Uparela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hugo-Uparela&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **Hugo-Uparela/Hugo-Uparela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
