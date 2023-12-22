@@ -5,7 +5,7 @@
 - 📲 Mobile developer
 - ♨️ Java Developer
 ### ⚙️ &nbsp;GitHub Analytics
-
+<!--
 <p align="center">
 <a href="https://github.com/Hugo-Uparela">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hugo-Uparela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
 </p>
 
 
-<!--
+
 **Hugo-Uparela/Hugo-Uparela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
