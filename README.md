@@ -5,7 +5,7 @@
 - 📲 Mobile developer
 - ♨️ Java Developer
 
-<!--
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -15,7 +15,7 @@
 </a>
 </p>
 
-
+<!--
 
 **Hugo-Uparela/Hugo-Uparela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
