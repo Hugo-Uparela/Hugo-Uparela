@@ -1,7 +1,7 @@
 ```javascript  
 // Breve descripción:
 const dev = {
-  nombre: "Hugo",
+  nombre: "Hugo Uparela",
   edad: 21,
   pais: "Colombia",
   estudiante: "Ingeniería de Sistemas",
